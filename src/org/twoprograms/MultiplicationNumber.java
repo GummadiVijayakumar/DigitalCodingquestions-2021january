@@ -19,7 +19,7 @@ public class MultiplicationNumber
 		
 		long c = 1;
 		
-		for(;;)
+		for(;;)    // infinite loop runs still the num is >0 otherwise it will break
 		{
 			if( num > 0 )
 			{
